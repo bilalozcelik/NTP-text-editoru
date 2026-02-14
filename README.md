@@ -26,3 +26,9 @@ Kısa açıklama
 
 ## 👨‍💻 Geliştirici
 Bilal Özçelik
+
+```python 
+# Bu basit bir Python fonksiyonudur 
+def greet(name): 
+    return f"Merhaba, {name}!" 
+```
